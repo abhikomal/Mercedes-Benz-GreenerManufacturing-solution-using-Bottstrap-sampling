@@ -1,1 +1,1 @@
-# Mercedes-Benz-GreenerManufacturing-solution-using-Bottstrap-sampling
+# Mercedes-Benz-Greener Manufacturing-solution-using-Bootstrap-sampling
